@@ -1,0 +1,19 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "CreateSS",
+        "libraryId": "1gy9xfYwCDCK8MSzZ3LfQNZyfV1ZZcY_sXo2gWG7usrNvUCV-fo0H8ryG",
+        "version": "0",
+        "developmentMode": true
+      }
+    ]
+  },
+  "webapp": {
+    "executeAs": "USER_DEPLOYING",
+    "access": "ANYONE_ANONYMOUS"
+  }
+}
